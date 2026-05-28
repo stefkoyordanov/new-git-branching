@@ -1,5 +1,9 @@
 First data
 Second data
 oleeeeeeeeeeeeeeee
+<<<<<<< HEAD
 
 changes from feature-authentication branch 
+=======
+daaaaaaaaaaa
+>>>>>>> 46bba3a7b04142764e0ef82a49a0d945c4a319c4
